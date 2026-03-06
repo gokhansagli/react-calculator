@@ -1,6 +1,6 @@
 {
   "homepage": "https://gokhansagli.github.io/react-calculator",
-  "name": "hesap-makinesi",
+  "name": "react-calculator",
   "private": true,
   "version": "0.0.0",
   "type": "module",
